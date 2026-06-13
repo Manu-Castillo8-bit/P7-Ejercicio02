@@ -7,7 +7,7 @@ namespace Ejercicio02
         public App()
         {
             InitializeComponent();
-            MainPage=new ContentPageDemostracion();
+            MainPage = new ContentPageDemostracion();
         }
 
         /*protected override Window CreateWindow(IActivationState? activationState)

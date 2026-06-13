@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Pr\u00E1ctica 7\\Ejercicio02\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5297C741-2B99-A503-5DAA-D2FB0CD32E8C}|Ejercicio02\\Ejercicio02.csproj|c:\\users\\user\\desktop\\pr\u00E1ctica 7\\ejercicio02\\ejercicio02\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5297C741-2B99-A503-5DAA-D2FB0CD32E8C}|Ejercicio02\\Ejercicio02.csproj|solutionrelative:ejercicio02\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5297C741-2B99-A503-5DAA-D2FB0CD32E8C}|Ejercicio02\\Ejercicio02.csproj|c:\\users\\user\\desktop\\pr\u00E1ctica 7\\ejercicio02\\ejercicio02\\contentpagedemostracion.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5297C741-2B99-A503-5DAA-D2FB0CD32E8C}|Ejercicio02\\Ejercicio02.csproj|solutionrelative:ejercicio02\\contentpagedemostracion.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Pr\u00E1ctica 7\\Ejercicio02\\Ejercicio02\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Ejercicio02\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Pr\u00E1ctica 7\\Ejercicio02\\Ejercicio02\\App.xaml.cs",
+              "RelativeToolTip": "Ejercicio02\\App.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T02:40:05.626Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -26,6 +48,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContentPageDemostracion.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Pr\u00E1ctica 7\\Ejercicio02\\Ejercicio02\\ContentPageDemostracion.xaml",
+              "RelativeDocumentMoniker": "Ejercicio02\\ContentPageDemostracion.xaml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Pr\u00E1ctica 7\\Ejercicio02\\Ejercicio02\\ContentPageDemostracion.xaml",
+              "RelativeToolTip": "Ejercicio02\\ContentPageDemostracion.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-13T02:34:10.308Z",
+              "EditorCaption": ""
             }
           ]
         }
